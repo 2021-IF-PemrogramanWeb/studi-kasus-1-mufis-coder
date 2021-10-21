@@ -81,7 +81,7 @@ if(isset($_POST['register'])){
                 <input type="submit" class="btn btn-block create-account" name="register" value="Daftar" />
             </div>
             <div class="register-login">
-                <p>Have an account? <a href="login.html">Sign In</a></p>
+                <p>Have an account? <a href="login.php">Sign In</a></p>
             </div>
         </form>
         <div class="social-media">
