@@ -98,6 +98,7 @@
 <!--===============================================================================================-->
 	<script src="js/main.js"></script>
     <p><a href="../logout.php">Logout</a></p>
+    <p><a href="../Template-BarChart/bar.php">Barplot</a></p>
 
 </body>
 </html>
